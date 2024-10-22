@@ -45,4 +45,4 @@
 👩‍💻 **Currently Learning:**
 - **Data Science**, **AI/ML**, **Web Development**, **System Architecture**
 
-📩 Feel free to reach out for collaboration or just to chat!
+📩 Feel free to reach out for collaboration!
