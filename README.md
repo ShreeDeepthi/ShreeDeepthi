@@ -1,4 +1,4 @@
-# Hi there, I'm Nimmagadda Shree Deepthi 👋
+# Hi there, I'm Nimmagadda Shree Deepthi 
 
 ![HTML5](https://img.shields.io/badge/HTML5-323330?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
