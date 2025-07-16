@@ -13,36 +13,36 @@
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
 
-🎓 **AI & ML-CS'27 | Bachelors in Technology**  
-📖 **Sophomore at SR University** with a current CGPA of **9.5**  
-✍️ **Mundane Writer** & **Published Author** of *Nostalgia* (available on [Amazon](https://www.amazon.in/Nostalgia-Nimmagadda-Shree-Deepthi/dp/B0DHPMZLYJ/ref=sr_1_4?crid=3FGF7AJC5ZJIQ&dib=eyJ2IjoiMSJ9.aTfNjGQm7K05VjC7AtFCzxu_F3rBq5HvcTLMoBrOXPpHWye1zB7JscQD3swthvSXOatSnHKo6e2WFvQicLzdGd3uezzEk-KN4VQOWYCNYarvyiPezWYSlEg-UCrOo6PoKulvFrEezekIARWXr_hJTJFDJiESIiOdEK3oHeX97HKBvrX8oqbhHcGu8u4NRxfn_tO-9UucokR-E0fpSRZZPkaUA1VPhekRUUHuabORCLs.AIKcLqqZHS_W6qBA7nYKscKQoq3KTNbJycM9sb-tUiw&dib_tag=se&keywords=nostalgia+book&qid=1729576409&sprefix=nostalgia+book%2Caps%2C217&sr=8-4))  
-💻 **Passionate Web Developer** & **UI Enthusiast**  
-📊 **Data Science Enthusiast**, currently working on a research paper for **Iris Species Analysis**  
-🌱 **Lifelong Learner**: Constantly expanding my knowledge!
+**AI & ML-CS'27 | Bachelors in Technology**  
+**Sophomore at SR University** with a current CGPA of **9.5**  
+**Mundane Writer** & **Published Author** of *Fold Me A Feeling* 
+**Passionate Web Developer** & **UI Enthusiast**  
+**Data Science Enthusiast**, currently working on a research paper for **Iris Species Analysis**  
+**Lifelong Learner**: Constantly expanding my knowledge!
 
-🔭 **Currently working on:**
+**Currently working on:**
 - Research paper on **K-medoids Clustering** for Iris species.
 - Building web projects with **HTML**, **CSS**, and **MongoDB**.
 - Completing my **Springboard Internship (5.0/5.0)** on AI & ML from **Infosys**.
 
-🎶 **Fun fact:** I play the **ukulele** and love music!  
-📚 **I'm learning** many things because I believe every day is an opportunity to grow.
+**Fun fact:** I play the **ukulele** and love music!  
+**I'm learning** many things because I believe every day is an opportunity to grow.
 
-📫 **Let's connect**:  
+**Let's connect**:  
 - [LinkedIn](https://www.linkedin.com/in/nimmagadda-shree-deepthi/)  
 - Instagram: [@dearlydeepthi](https://www.instagram.com/dearlydeepthi/)
 
-💬 **Ask me about:**  
+**Ask me about:**  
 - **HTML**, **CSS**, **MongoDB**, **UI Development**, **Data Science**, **Iris research**, and **AI/ML**.
 
-😄 **Pronouns**: **She, Her**
+**Pronouns**: **She, Her**
 
-🔧 **Tools & Technologies:**
+**Tools & Technologies:**
 - **HTML**, **CSS**, **MongoDB**, **MySQL**
 - **Python**, **Java**, **C++**
 - **VSCode**, **Git**, **WordPress**
 
-👩‍💻 **Currently Learning:**
+**Currently Learning:**
 - **Data Science**, **AI/ML**, **Web Development**, **System Architecture**
 
 📩 Feel free to reach out for collaboration!
