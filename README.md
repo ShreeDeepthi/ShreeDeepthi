@@ -14,7 +14,7 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
 
 **AI & ML-CS'27 | Bachelors in Technology**  
-**Sophomore at SR University** with a current CGPA of **9.5**  
+**Sophomore at SR University** with a current CGPA of **9.6**  
 **Mundane Writer** & **Published Author** of *Fold Me A Feeling* 
 **Passionate Web Developer** & **UI Enthusiast**  
 **Data Science Enthusiast**, currently working on a research paper for **Iris Species Analysis**  
